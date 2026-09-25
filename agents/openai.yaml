@@ -1,0 +1,3 @@
+interface:
+  display_name: "代码仓库阅读导读"
+  short_description: "基于本地源码编写可核查的代码导读，并为关键实现添加教学注释"
